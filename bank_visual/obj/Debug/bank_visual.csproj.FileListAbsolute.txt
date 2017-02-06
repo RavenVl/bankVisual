@@ -1,0 +1,9 @@
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\bin\Debug\bank_visual.exe.config
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\bin\Debug\bank_visual.exe
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\bin\Debug\bank_visual.pdb
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\obj\Debug\bank_visual.csprojResolveAssemblyReference.cache
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\obj\Debug\bank_visual.Form1.resources
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\obj\Debug\bank_visual.Properties.Resources.resources
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\obj\Debug\bank_visual.csproj.GenerateResource.Cache
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\obj\Debug\bank_visual.exe
+c:\users\raven\documents\visual studio 2012\Projects\bank_visual\bank_visual\obj\Debug\bank_visual.pdb
